@@ -4,7 +4,7 @@ import Page from './Page';
 function App() {
 	return (
 		<>
-			<div>Apppps</div>;
+			<div>Apppps</div>;<div>Opps</div>
 			<Page />
 		</>
 	);
